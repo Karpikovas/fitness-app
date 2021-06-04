@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "makeeva dasha",
+  "mongoUri": "mongodb+srv://makeeva_d:71pg12345678@cluster0.ru5kn.mongodb.net/app?retryWrites=true&w=majority"
+}
